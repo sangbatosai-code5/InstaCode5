@@ -13,3 +13,44 @@
 
   </p>
 </p>
+
+# Table of Contents
+
+- [Install](#install)
+- [Support us](#support-us)
+- [Examples](#examples)
+- [Basic Concepts](#basic-concepts)
+  - [Feeds](#feeds)
+  - [Repositories](#repositories)
+  - [Services](#services)
+- [Contribution](#contribution)
+- [Useful Links](#useful-links)
+  - [Special Thanks](#special-thanks)
+  - [Thanks to Contributors](#thanks-to-contributors)
+  - [End User License Agreement (EULA)](#end-user-license-agreement-eula)
+  
+  
+# Install
+
+From npm
+
+```
+npm install instagram-private-api
+```
+
+From github
+
+```
+npm install github:dilame/instagram-private-api
+```
+
+# Support us
+
+If you find this library useful for you, you can support it by donating any amount
+
+BTC: ,,.,.,,,.
+
+# Basic concepts
+## Feeds
+
+# Examples
