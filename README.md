@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/sJzfZsL.jpg" width="154">
+  <img src="https://cloud.githubusercontent.com/assets/1809268/15931032/2792427e-2e56-11e6-831e-ffab238cc4a2.png" width="154">
   <h1 align="center">InstaCode5</h1>
   <p align="center">With <b>automates</b> Likes, Comments, and Followers on Instagram Python using the Selenium module.<p>
   <p align="center">
