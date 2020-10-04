@@ -62,10 +62,10 @@ You can find usage examples InstaCode5
 [[InstaCode5 Youtube SangBatosai-Code5](https://www.youtube.com/playlist?list=PL3_ixXxOK94Zg1VZhV7V0vpURk_NZnkAS)]
 
 <div align="center">
-      <a href="https://www.youtube.com/watch?v=E5ooTWCaR5k&list=PL3_ixXxOK94Zg1VZhV7V0vpURk_NZnkAS&index=2&t=1s">
+      <a href="https://www.youtube.com/watch?v=M24CLfhDaiQ&list=PL3_ixXxOK94Zg1VZhV7V0vpURk_NZnkAS&index=1">
      <img 
       src="https://img.youtube.com/vi/VPO6-V8l3Ho/0.jpg" 
-      alt="Everything Is AWESOME" 
+      alt="Examples on My Channel" 
       style="width:100%;">
       </a>
     </div>
