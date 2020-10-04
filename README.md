@@ -85,6 +85,6 @@ Repositories implements low-level atomic operations. Any repository method must 
 
 # Support us
 
-If you find this library useful for you, you can support it by donating any amount
+If you find this library useful for you, you can support it by donating any amount for a Espresso
 
-:euro: PayPal: ........
+:euro: PayPal: paypal.me/paradiQma
