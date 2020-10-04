@@ -36,6 +36,8 @@ From github
 
 ```
 git clone https://github.com/sangbatosai-code5/InstaCode5.git
+cd InstaCode5
+python3 InstaCode5.py
 ```
 
 # Basic Concepts
