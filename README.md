@@ -64,7 +64,7 @@ You can find usage examples InstaCode5
 <div align="center">
       <a href="https://www.youtube.com/watch?v=E5ooTWCaR5k&list=PL3_ixXxOK94Zg1VZhV7V0vpURk_NZnkAS&index=2&t=1s">
      <img 
-      src="https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg" 
+      src="https://img.youtube.com/vi/VPO6-V8l3Ho/0.jpg" 
       alt="Everything Is AWESOME" 
       style="width:100%;">
       </a>
