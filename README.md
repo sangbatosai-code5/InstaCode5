@@ -43,16 +43,26 @@ python3 InstaCode5.py
 
 # Basic Concepts
 Follow by Hashtags
+
 Follow by ID
+
 Follow by Circle ID
+
 Follow by Circle Hashtag
 
+
 Like Posting
+
 Comment Posting
+
 Like-Comment-Follow Posting
 
+
 Check Whitelist Follower
+
 Check Blacklist Follower
+
+Unfollow With Multi Method
 
 # Examples and More
 
