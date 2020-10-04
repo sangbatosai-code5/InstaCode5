@@ -60,7 +60,7 @@ You can find usage examples InstaCode5
 [[InstaCode5 Youtube SangBatosai-Code5](https://www.youtube.com/playlist?list=PL3_ixXxOK94Zg1VZhV7V0vpURk_NZnkAS)]
 
 '''
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL3_ixXxOK94Zg1VZhV7V0vpURk_NZnkAS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ https://yt-embed.herokuapp.com/embed?v=E5ooTWCaR5k&list=PL3_ixXxOK94Zg1VZhV7V0vpURk_NZnkAS&index=2&t=1s
 '''
 
 ## Repositories
