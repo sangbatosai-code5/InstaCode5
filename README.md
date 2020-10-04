@@ -33,7 +33,7 @@
   
 # Install
 
-From github
+:gear: From github
 
 ```
 git clone https://github.com/sangbatosai-code5/InstaCode5.git
@@ -77,4 +77,4 @@ Repositories implements low-level atomic operations. Any repository method must 
 
 If you find this library useful for you, you can support it by donating any amount
 
-PayPal: ........
+:euro: PayPal: ........
