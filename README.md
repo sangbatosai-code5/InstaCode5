@@ -61,8 +61,8 @@ You can find more video on My Channel [[here](https://www.youtube.com/channel/UC
 You can find usage examples InstaCode5
 [[InstaCode5 Youtube SangBatosai-Code5](https://www.youtube.com/playlist?list=PL3_ixXxOK94Zg1VZhV7V0vpURk_NZnkAS)]
 
-<div align="center" onCLick="window.open('https://www.youtube.com/watch?v=M24CLfhDaiQ&list=PL3_ixXxOK94Zg1VZhV7V0vpURk_NZnkAS&index=1', '_newtab');">
-      <a href="https://www.youtube.com/watch?v=M24CLfhDaiQ&list=PL3_ixXxOK94Zg1VZhV7V0vpURk_NZnkAS&index=1">
+<div align="center" >
+      <a href="https://www.youtube.com/watch?v=M24CLfhDaiQ&list=PL3_ixXxOK94Zg1VZhV7V0vpURk_NZnkAS&index=1" target="_blank">
      <img src="https://img.youtube.com/vi/VPO6-V8l3Ho/0.jpg" alt="Examples on My Channel"  style="width:100%;">
       </a>
     </div>
