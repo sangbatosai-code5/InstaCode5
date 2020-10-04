@@ -87,4 +87,4 @@ Repositories implements low-level atomic operations. Any repository method must 
 
 If you find this library useful for you, you can support it by donating any amount for a Espresso
 
-:euro: PayPal: paypal.me/paradiQma
+:euro: PayPal: [Espresso Double Shot for Us](https://www.paypal.com/paypalme/paradiQma)
