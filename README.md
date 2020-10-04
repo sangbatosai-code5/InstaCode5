@@ -32,23 +32,17 @@
   
 # Install
 
-From npm
-
-```
-npm install instagram-private-api
-```
-
 From github
 
 ```
-npm install github:dilame/instagram-private-api
+git clone https://github.com/sangbatosai-code5/InstaCode5.git
 ```
 
 # Support us
 
 If you find this library useful for you, you can support it by donating any amount
 
-BTC: ,,.,.,,,.
+PayPal: ........
 
 # Basic concepts
 ## Feeds
