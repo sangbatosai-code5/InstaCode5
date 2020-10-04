@@ -13,7 +13,7 @@
 
   </p>
 </p>
-div align="center">
+<div align="center">
       <a href="https://www.youtube.com/watch?v=E5ooTWCaR5k&list=PL3_ixXxOK94Zg1VZhV7V0vpURk_NZnkAS&index=2&t=1s">
      <img 
       src="https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg" 
