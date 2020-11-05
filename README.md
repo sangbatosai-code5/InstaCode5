@@ -42,12 +42,12 @@ cd InstaCode5
 pip install -r requirements.txt
 
 You can try using GeckoDriver v0.27.0:
-tar xvzf WebDriver/geckodriver-v0.27.0-linux32.tar.gz
+tar xvzf WebDriver/geckodriver-v0.27.0-linux32.tar.gz -C WebDriver/
 
 OR
 
 Using GeckoDriver v0.26.0:
-tar xvzf WebDriver/geckodriver-v0.26.0-linux64.tar.gz
+tar xvzf WebDriver/geckodriver-v0.26.0-linux64.tar.gz -C WebDriver/
 ```
 # Usage
 - Change Username & Password credits.py<br>
