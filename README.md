@@ -42,36 +42,26 @@ cd InstaCode5
 pip install -r requirements.txt
 ```
 # Usage
-Change Username & Password credits.py<br>
-dir: InstaCode5/modulnya/modul_login/credits.py
+- Change Username & Password credits.py<br>
+  - dir: InstaCode5/modulnya/modul_login/credits.py
+- WebDriver using Gecko
 
-
+Execute:
 ```
 python3 InstaCode5.py
 ```
 
 # Basic Concepts
-Follow by Hashtags
-
-Follow by ID
-
-Follow by Circle ID
-
-Follow by Circle Hashtag
-
-
-Like Posting
-
-Comment Posting
-
-Like-Comment-Follow Posting
-
-
-Check Whitelist Follower
-
-Check Blacklist Follower
-
-Unfollow With Multi Method
+- Follow by Hashtags
+- Follow by ID
+- Follow by Circle ID
+- Follow by Circle Hashtag
+- Like Posting
+- Comment Posting
+- Like-Comment-Follow Posting
+- Check Whitelist Follower
+- Check Blacklist Follower
+- Unfollow With Multi Method
 
 # Examples and More
 
