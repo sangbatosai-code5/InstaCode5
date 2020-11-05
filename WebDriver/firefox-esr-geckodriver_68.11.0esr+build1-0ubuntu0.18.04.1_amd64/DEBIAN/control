@@ -1,0 +1,17 @@
+Package: firefox-esr-geckodriver
+Source: firefox-esr
+Version: 68.11.0esr+build1-0ubuntu0.18.04.1
+Architecture: amd64
+Maintainer: Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com>
+Installed-Size: 3709
+Depends: libc6 (>= 2.18), libgcc1 (>= 1:3.3), firefox-esr (= 68.11.0esr+build1-0ubuntu0.18.04.1)
+Section: web
+Priority: optional
+Description: Safe and easy web browser from Mozilla - geckodriver
+ Firefox delivers safe, easy web browsing. A familiar user interface,
+ enhanced security features including protection from online identity theft,
+ and integrated search let you get the most out of the web.
+ .
+ This package contains geckodriver, a proxy for using W3C WebDriver-compatible
+ clients (such as selenium) to interact with Gecko-based browsers. See
+ https://firefox-source-docs.mozilla.org/testing/geckodriver/ for details.
