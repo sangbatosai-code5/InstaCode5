@@ -40,10 +40,8 @@
 git clone https://github.com/sangbatosai-code5/InstaCode5.git
 cd InstaCode5
 pip install -r requirements.txt
-python3 InstaCode5.py
 ```
 # Usage
-:gear: From github
 Change Username & Password credits.py
 dir: InstaCode5/modulnya/modul_login/credits.py
 
