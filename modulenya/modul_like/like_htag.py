@@ -72,7 +72,7 @@ class LTAG:
 		print ()
 	    
 	def loginakun(self):
-		self.driver_path = "/home/sangbatosai/HXBOTS/WebDriver/geckodriver"
+		self.driver_path = "../WebDriver/geckodriver"
 		self.mybrowser = webdriver.Firefox(executable_path=self.driver_path)
 		mybrowser=self.mybrowser
 		mybrowser.implicitly_wait(10)
