@@ -48,7 +48,7 @@ OR
 Using GeckoDriver v0.26.0:
 tar xvzf WebDriver/geckodriver-v0.26.0-linux64.tar.gz -C WebDriver/
 ```
-Install Java SDK:
+<b>Install Java SDK:</b>
 ```
 sudo apt install -y default-jdk
 ```
