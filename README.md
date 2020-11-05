@@ -40,11 +40,18 @@
 git clone https://github.com/sangbatosai-code5/InstaCode5.git
 cd InstaCode5
 pip install -r requirements.txt
+
+You can try using GeckoDriver v0.27.0:
+tar xvzf WebDriver/geckodriver-v0.27.0-linux32.tar.gz
+
+OR
+
+Using GeckoDriver v0.26.0:
+tar xvzf WebDriver/geckodriver-v0.26.0-linux64.tar.gz
 ```
 # Usage
 - Change Username & Password credits.py<br>
   - dir: InstaCode5/modulnya/modul_login/credits.py
-- WebDriver using Gecko
 
 Execute:
 ```
