@@ -77,7 +77,7 @@ class FLBLACK:
 	    
 
 	def loginakun(self):
-		self.driver_path = "WebDriver/geckodriver"
+		self.driver_path = "/usr/bin/geckodriver"
 		self.mybrowser = webdriver.Firefox(executable_path=self.driver_path)
 		mybrowser=self.mybrowser
 		mybrowser.get("https://www.instagram.com/")
