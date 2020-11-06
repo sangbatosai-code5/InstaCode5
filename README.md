@@ -9,9 +9,6 @@
     <a href="https://github.com/SeleniumHQ/selenium">
       <img src="https://img.shields.io/badge/built%20with-Selenium-yellow.svg" />
     </a>
-
-
-  </p>https://raw.githubusercontent.com/sangbatosai-code5/InstaCode5/master/posting-txt/Screenshot%202020-11-06%2019%3A14%3A50.png
 </p>
 
 
