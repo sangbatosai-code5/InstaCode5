@@ -55,7 +55,8 @@ sudo apt install -y default-jdk
   - dir: InstaCode5/modulnya/modul_login/credits.py
 - Files (See directory InstaCode5/posting-txt/ )
   - ![Files](https://github.com/sangbatosai-code5/InstaCode5/blob/master/posting-txt/Screenshot%202020-11-06%2019:14:50.png)
-Execute:
+  
+- <b>Execute:</b>
 ```
 python3 InstaCode5.py
 ```
