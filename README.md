@@ -16,7 +16,7 @@
 
 - [Install](#install)
 - [Usage](#usage)
-- [Support us](#support-us)
+- [Donate - Support us](#support-us)
 - [Examples](#examples-and-more)
 - [Basic Concepts](#basic-concepts)
   - [Feeds](#feeds)
