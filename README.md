@@ -39,11 +39,11 @@ sudo pip install -r requirements.txt
 sudo apt install -y default-jdk
 ```
 :gear: <b>Extract Web Driver into /usr/bin/:</b><br>
-       <i>You can try using GeckoDriver v0.27.0</i>
+-------<i>You can try using GeckoDriver v0.27.0</i>
 ```
 tar xvzf WebDriver/geckodriver-v0.27.0-linux32.tar.gz -C /usr/bin/
 ```
-      OR <i>Using GeckoDriver v0.26.0:</i>
+----------OR <i>Using GeckoDriver v0.26.0:</i>
 ```
 tar xvzf WebDriver/geckodriver-v0.26.0-linux64.tar.gz -C /usr/bin/
 ```
