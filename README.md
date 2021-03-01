@@ -37,12 +37,13 @@ git clone https://github.com/sangbatosai-code5/InstaCode5.git
 cd InstaCode5
 pip install -r requirements.txt
 
-You can try using GeckoDriver v0.27.0:
+<b>Extract Web Driver into /usr/bin/:</b>
+<i>You can try using GeckoDriver v0.27.0</i>
 tar xvzf WebDriver/geckodriver-v0.27.0-linux32.tar.gz -C /usr/bin/
 
 OR
 
-Using GeckoDriver v0.26.0:
+<i>Using GeckoDriver v0.26.0:</i>
 tar xvzf WebDriver/geckodriver-v0.26.0-linux64.tar.gz -C /usr/bin/
 ```
 <b>Install Java SDK:</b>
@@ -53,13 +54,14 @@ sudo apt install -y default-jdk
 # Usage
 - Change Username & Password credits.py<br>
   - dir: InstaCode5/modulnya/modul_login/credits.py
-- Files (See directory InstaCode5/posting-txt/ )
-  - ![Files](https://github.com/sangbatosai-code5/InstaCode5/blob/master/posting-txt/Screenshot%202020-11-06%2019:14:50.png)
   
 - <b>Execute:</b>
 ```
 python3 InstaCode5.py
 ```
+- For Comments Files (See directory InstaCode5/posting-txt/ )
+  - ![Files](https://github.com/sangbatosai-code5/InstaCode5/blob/master/posting-txt/Screenshot%202020-11-06%2019:14:50.png)
+  - Example: /posting-txt/Kopi/kopi-1.txt
 
 # Basic Concepts
 - Follow by Hashtags
