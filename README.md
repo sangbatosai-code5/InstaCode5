@@ -56,7 +56,7 @@ sudo chmod +x /usr/bin/geckodriver
 
 # Usage
 - Change Username & Password credits.py<br>
-  - dir: InstaCode5/modulnya/modul_login/credits.py
+  - Directory: InstaCode5/modulnya/modul_login/credits.py
   
 - <b>Execute:</b>
 ```
