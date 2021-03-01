@@ -58,11 +58,11 @@ sudo chmod +x /usr/bin/geckodriver
 :gear: <b>Change Username & Password credits.py</b><br>
   - Directory: InstaCode5/modulnya/modul_login/credits.py
   
-:gear:<b>Execute:</b>
+:gear: <b>Execute:</b>
 ```
 python3 InstaCode5.py
 ```
-:gear:For Comments Files (See directory InstaCode5/posting-txt/ )
+:gear: <b>For Comments Files</b> <i>(See directory InstaCode5/posting-txt/ )</i>
   - Example: /posting-txt/Kopi/kopi-1.txt
   - ![Files](https://github.com/sangbatosai-code5/InstaCode5/blob/master/posting-txt/Screenshot%202020-11-06%2019:14:50.png)
 
