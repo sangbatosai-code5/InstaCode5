@@ -31,14 +31,14 @@
   
 # Install
 
-:gear: From github
+:gear: <b>From Github</b>
 ```
 git clone https://github.com/sangbatosai-code5/InstaCode5.git
 cd InstaCode5
 sudo pip install -r requirements.txt
 sudo apt install -y default-jdk
 ```
-<b>Extract Web Driver into /usr/bin/:</b>
+:gear: <b>Extract Web Driver into /usr/bin/:</b><br>
 <i>You can try using GeckoDriver v0.27.0</i>
 ```
 tar xvzf WebDriver/geckodriver-v0.27.0-linux32.tar.gz -C /usr/bin/
@@ -48,7 +48,7 @@ OR <i>Using GeckoDriver v0.26.0:</i>
 tar xvzf WebDriver/geckodriver-v0.26.0-linux64.tar.gz -C /usr/bin/
 ```
 
-<b>CHMOD GeckoDriver</b>
+:gear: <b>CHMOD GeckoDriver</b>
 ```
 sudo chmod +x /usr/bin/geckodriver
 ```
