@@ -35,21 +35,25 @@
 ```
 git clone https://github.com/sangbatosai-code5/InstaCode5.git
 cd InstaCode5
-pip install -r requirements.txt
-
+sudo pip install -r requirements.txt
+sudo apt install -y default-jdk
+```
 <b>Extract Web Driver into /usr/bin/:</b>
 <i>You can try using GeckoDriver v0.27.0</i>
+```
 tar xvzf WebDriver/geckodriver-v0.27.0-linux32.tar.gz -C /usr/bin/
-
+```
 OR
-
+```
 <i>Using GeckoDriver v0.26.0:</i>
 tar xvzf WebDriver/geckodriver-v0.26.0-linux64.tar.gz -C /usr/bin/
 ```
-<b>Install Java SDK:</b>
+
+<b>CHMOD GeckoDriver</b>
 ```
-sudo apt install -y default-jdk
+sudo chmod +x /usr/bin/geckodriver
 ```
+
 
 # Usage
 - Change Username & Password credits.py<br>
