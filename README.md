@@ -43,9 +43,8 @@ sudo apt install -y default-jdk
 ```
 tar xvzf WebDriver/geckodriver-v0.27.0-linux32.tar.gz -C /usr/bin/
 ```
-OR
+OR <i>Using GeckoDriver v0.26.0:</i>
 ```
-<i>Using GeckoDriver v0.26.0:</i>
 tar xvzf WebDriver/geckodriver-v0.26.0-linux64.tar.gz -C /usr/bin/
 ```
 
